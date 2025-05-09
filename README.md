@@ -1,6 +1,9 @@
-#3 mylang Progamming languange (Work In Progress)
+## mylang Progamming languange (Work In Progress)
 
-Tahapan Pengembangan Selanjutnya
+
+mylang adalah sebuah proyek latihan untuk membuat bahasa pemrograman berbasis golang
+
+## Tahapan Pengembangan Selanjutnya
 
    Implementasi Parser yang Lengkap:
         Tambahkan parsing untuk ekspresi
@@ -13,4 +16,3 @@ Tahapan Pengembangan Selanjutnya
    Penanganan Error yang Lebih Baik:
         Pesan error yang informatif untuk pengguna pemula
 
-mylang adalah sebuah proyek latihan untuk membuat bahasa pemrograman berbasis golang
